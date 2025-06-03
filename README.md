@@ -304,12 +304,6 @@ public class DoubleNode
 
 <div align="center">
 
-**⭐ Если проект был полезен, поставьте звезду!**
-
-[![GitHub stars](https://img.shields.io/github/stars/username/nodelab?style=social)](https://github.com/username/nodelab)
-
----
-
 *Сделано с ❤️ для изучения структур данных*
 
 </div>
